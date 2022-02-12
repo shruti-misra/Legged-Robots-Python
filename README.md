@@ -3,6 +3,8 @@
 This is a Python based framework to simulate gaits of different legged systems. The framework builds upon the MATLAB framework as provided in [1]. 
 It provides examples of two different legged systems, namely the Passive Dynamic Biped and the Bounding Quadruped. Both the systems are treated as hybrid dynamical systems and are thus modeled as such. Therefore, building the Python framework provided a good insight into understanding and modeling complex hybrid dynamical systems from a computational point of view.
 
+A brief writeup of the system and its theory can be found [here](https://github.com/shruti-misra/Legged-Robots-Python/blob/main/Writeup.pdf)
+
 ## Models 
 
 The framework can simulate three different categories of models
